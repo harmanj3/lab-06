@@ -1,1 +1,2 @@
-# lab-06
+Name: Harmanjot Kaur Dhaliwal
+CCID: harmanj3
